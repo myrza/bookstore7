@@ -5,7 +5,7 @@ import (
 	"bookstore7/internal/server"
 )
 
-func main() {
+func mainnew() {
 
 	server := server.NewServer()
 
